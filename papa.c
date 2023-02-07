@@ -2,4 +2,5 @@
 
 void main(){
     printf("papa");
+    printf("lala");
 }
